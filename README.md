@@ -16,19 +16,15 @@ Play Playlist in Loop: Loop through the playlist multiple times.
 Shuffle and Play: Shuffle the playlist and play starting from a chosen song.
 How to Use
 Compile the Program:
-Copy code
-g++ -o final_spotify final_spotify.cpp
+# g++ -o final_spotify final_spotify.cpp
 Run the Executable:
 sh
-Copy code
-./final_spotify
-# Follow the Menu: Use the command-line menu to interact with the playlist manager.
+# ./final_spotify
+Follow the Menu: Use the command-line menu to interact with the playlist manager.
 
 # Example File Format
 The input file should be formatted with each song's details on separate lines:
 
-mathematica
-Copy code
 Song Name
 Film Name
 Genre
